@@ -1,7 +1,7 @@
 # Portfolio
 
 
-
+Built with React, TypeScript, JavaScript, and SCSS  
 
 ## Quick Setup
 
@@ -22,3 +22,12 @@
     ```bash
     npm start
     ```
+## build and re-deploy
+
+```
+npm run build
+```
+
+```
+firebase deploy
+```

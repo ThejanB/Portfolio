@@ -34,7 +34,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">BSc Eng Hons, Computer Science & Engineering</h3>
-            <h4 className="vertical-timeline-element-subtitle"></h4>
+            <h4 className="vertical-timeline-element-subtitle"> </h4>
             <p>
               Computer Science | Software Engineering
             </p>
