@@ -6,8 +6,8 @@ import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsDatabases = ['MySQL', 'PostgreSQL', 'MongoDB'];
-const labelsFrameworksLibraries = ['FastAPI', 'Django', 'Spring Boot', 'React', 'Angular', 'React Native', 'Kotlin', 'PHP', 'LangChain', 'LangGraph'];
-const labelsLanguages = [ 'Java', 'Python', 'JavaScript', 'C++'];
+const labelsFrameworksLibraries = ['FastAPI', 'Django', 'Spring Boot', 'React', 'Angular', 'React Native', 'PHP', 'LangChain', 'LangGraph'];
+const labelsLanguages = [ 'Java', 'Python', 'JavaScript', 'C++', 'Kotlin'];
 const labelsToolsServices = [ 'Git', 'GitLab', 'Hugging Face', 'Jira']
 
 function Expertise() {
